@@ -6,7 +6,7 @@ a Software Engineer (Full Stack Student)
 
 #### 📍 Currently base at: Santa Catarina, Brazil
 
-#### 💼 Currently studying at: GrowDev 
+#### 💼 Currently studying
 
 #### 👨🏻‍💻 Currently working on:
 
